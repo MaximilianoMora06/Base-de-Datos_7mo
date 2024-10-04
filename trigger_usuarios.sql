@@ -1,0 +1,2 @@
+INSERT INTO usuarios(id, nombre, apellido, dni, clave, activo, pais, provincia, localidad, direccion, telefono, sexo, fNacimiento, email, imagen)VALUES
+(010101, "sebastian", "hernandez", 46705704, "mimamimequiere", 1, "croacia", "pamplinas", "lasiesha", "av gualeguaichu", 555444666, "hombre", 18/08/1875, "sebashorno@gmail.com", "fotico")

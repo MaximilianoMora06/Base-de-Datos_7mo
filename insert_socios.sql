@@ -1,0 +1,1 @@
+INSERT INTO socios(uid, fInscripcion, fRenovacion, fBaja, emmac, activo) VALUES (1, 20/08/1960, 05/08/1915, 12/06/2005, 12/05/2021, 1);
